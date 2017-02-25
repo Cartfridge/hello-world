@@ -1,2 +1,3 @@
 # hello-world
-I know absolutely nothing about github tbqh
+I knew absolutely nothing about github tbqh.
+Now I know a little more about github.
